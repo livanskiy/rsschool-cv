@@ -28,6 +28,7 @@ body {
 
 .head__photo {
     margin: 20px 0px;
+    width: 200px;
 }
 
 .content {
@@ -49,7 +50,7 @@ hr {
 
 a {
     text-decoration: none;
-    color: black;
+    color: #607d8b;
 }
 
 li span {
@@ -62,11 +63,11 @@ li span {
     margin-top: 100px;
 }
 
-.footer-content__elem {
+footer section {
     display: flex;
-    align-items: center;
 }
 
-.footer-content__elem img {
-    margin-right: 20px;
+footer img {
+    width: 150px;
+    margin: 0 20px;
 }
