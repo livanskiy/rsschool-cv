@@ -7,3 +7,4 @@
 * Skills: HTML, CSS, Vanilla JS.
 * There is no example of your own code and work experience.
 * Higher technical education
+* English level: A2
